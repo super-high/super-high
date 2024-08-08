@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](./1.png)
+![](./1.webp)
 <!--
 **super-high/super-high** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
